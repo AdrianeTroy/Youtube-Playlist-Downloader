@@ -1,6 +1,6 @@
 # Youtube-Playlist-Downloader
 
-A Python application designed to download mp3 or mp4 from a Youtube playlist
+A Simple Python application with GUI designed to download mp3 or mp4 from a Youtube playlist
 
 ![testimg](https://user-images.githubusercontent.com/72486298/187301565-a247575a-13c5-482f-86b2-9696de12688e.png)
 
