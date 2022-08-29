@@ -4,7 +4,7 @@ A Simple Python application with GUI designed to download mp3 or mp4 from a Yout
 
 ![testimg](https://user-images.githubusercontent.com/72486298/187301565-a247575a-13c5-482f-86b2-9696de12688e.png)
 
-#Instructions
+# Instructions
 
 1.) Add videos in a playlist  
 2.) Select path  
@@ -12,7 +12,7 @@ A Simple Python application with GUI designed to download mp3 or mp4 from a Yout
 4.) Wait for download to finish  
 
 
-#Notes
+# Notes
 
 * This app is catered more to downloading MP3 from Youtube since the MP4 is set to download the highest resolution which makes it slow to download if the video has more than 1080p resolution  
 * Downloading copyrighted material is illegal and I'm not responsible for any copyright issues that may occur.
