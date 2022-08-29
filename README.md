@@ -14,4 +14,4 @@ A Python application designed to download mp3 or mp4 from a Youtube playlist
 
 #Notes
 
-*This app is catered more to downloading MP3 from Youtube since the MP4 is set to download the highest resolution which makes it slow to download if the video has more than 1080p resolution
+**This app is catered more to downloading MP3 from Youtube since the MP4 is set to download the highest resolution which makes it slow to download if the video has more than 1080p resolution
