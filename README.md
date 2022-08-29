@@ -7,9 +7,10 @@ A Simple Python application with GUI designed to download mp3 or mp4 from a Yout
 # Instructions
 
 1.) Add videos in a playlist  
-2.) Select path  
-3.) Download MP3 or MP4  
-4.) Wait for download to finish  
+2.) Copy playlist link and paste on the input
+3.) Select path  
+4.) Download MP3 or MP4  
+5.) Wait for download to finish  
 
 
 # Notes
